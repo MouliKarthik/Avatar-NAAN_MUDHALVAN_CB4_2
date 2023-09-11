@@ -26,4 +26,4 @@ Social Media Integration:
 Integrate social media sharing buttons to facilitate content dissemination on various platforms.
 Leverage social media channels to promote the blog and attract a wider audience.
 
-In conclusion The Blog Website aims to provide an enriching experience for both creators and users, fostering a community around shared interests and knowledge. It offers an opportunity to develop technical skills, content creation abilities, and an understanding of user-centered design principles. Additionally, it will serve as a valuable addition to your portfolio, showcasing your ability to execute a comprehensive web project.
+In conclusion, The Blog Website aims to provide an enriching experience for both creators and users, fostering a community around shared interests and knowledge. It offers an opportunity to develop technical skills, content creation abilities, and an understanding of user-centered design principles. Additionally, it will serve as a valuable addition to your portfolio, showcasing your ability to execute a comprehensive web project.
