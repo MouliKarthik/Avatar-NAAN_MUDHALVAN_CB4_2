@@ -1,4 +1,4 @@
-BLOG WEBSITE
+**BLOG WEBSITE**
 The aim of this project is to design and develop a dynamic and user-friendly blog website, catering to a diverse range of topics and interests. This project will not only showcase technical proficiency but also encompass content creation, user engagement, and effective design principles.
 
 Objectives:
